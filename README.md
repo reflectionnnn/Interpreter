@@ -1,0 +1,1 @@
+Test interpeter writed on Luau.
